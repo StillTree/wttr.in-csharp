@@ -10,15 +10,16 @@ Checking weather (table):<br>
 
 Checking weather (graph):<br>
 > Disclaimer: this is an experimental feature and may not work as intended
+<br>
 `weather cityName -e`<br>
 
-Checking app version:<br><br>
+Checking app version:<br>
 `weather -v`
 
 ## Building an app
 
 To build this app, past this command in the directory you want it in:<br>
-`git clone https://github.com/IAmTree/wttr.in-csharp`<br>
+`git clone https://github.com/IAmTree/wttr.in-csharp`
 
 Than open the Weather.sln file with Visual Studio 2019.<br>
 Then compile it and open it with Windows Terminal.
