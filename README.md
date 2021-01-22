@@ -6,13 +6,13 @@ App can **only** be ran in the **new** Windows Terminal. App uses ASCII escape c
 ## Usage
 
 Checking weather (table):<br>
-`weather cityName`<br>
+`weather cityName`<br><br>
 ![No photo LoL](Screenshots/ss1.png)
 
 Checking weather (graph):
 > Disclaimer: this is an experimental feature and may not work as intended<br>
 
-`weather -v`<br>
+`weather -v`<br><br>
 ![No photo LoL](Screenshots/ss2.png)
 
 Checking app version:<br>
