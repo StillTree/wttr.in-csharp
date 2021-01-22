@@ -8,10 +8,10 @@ App can **only** be ran in the **new** Windows Terminal. App uses ASCII escape c
 Checking weather (table):<br>
 `weather cityName`<br>
 
-Checking weather (graph):<br>
-> Disclaimer: this is an experimental feature and may not work as intended
-<br>
-`weather cityName -e`<br>
+Checking weather (graph):
+> Disclaimer: this is an experimental feature and may not work as intended<br>
+
+`weather -v`<br>
 
 Checking app version:<br>
 `weather -v`
