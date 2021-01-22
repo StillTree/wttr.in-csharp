@@ -12,7 +12,7 @@ Checking weather (table):<br>
 Checking weather (graph):
 > Disclaimer: this is an experimental feature and may not work as intended<br>
 
-`weather -v`<br><br>
+`weather cityName -e`<br><br>
 ![No photo LoL](Screenshots/ss2.png)
 
 Checking app version:<br>
